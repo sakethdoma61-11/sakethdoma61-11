@@ -1,234 +1,420 @@
-# Hi there 👋, I'm Doma Saketh
+# 👋 Hi, I'm Doma Saketh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;B.Tech+AI+%26+ML+Student;Passionate+AI+Innovator;Future+TUM+Germany+Student+🇩🇪;Building+AI+Solutions+for+Real+World+Problems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5AF0&height=220&section=header&text=Doma%20Saketh&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <a href="mailto:sakethdoma61@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/doma-saketh-464574380">
-    <img src="https://img.shields.io/badge/LinkedIn-Doma%20Saketh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sakethdoma61-11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;B.Tech+AI+%26+ML+Student;Future+TUM+Germany+Student;Building+Real+World+AI+Solutions"/>
 </p>
 
----
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-
-🏫 **Saveetha School of Engineering (SIMATS)**
-
-📍 **Chennai, India**
-
-I am a passionate **AI & Machine Learning Engineer** who enjoys exploring Artificial Intelligence and building intelligent applications that solve real-world problems.
-
-My goal is to pursue my Master's at the **Technical University of Munich (TUM), Germany**, and build cutting-edge AI systems that create a positive impact on society.
-
-I love learning new technologies, experimenting with AI, and continuously improving my development skills.
+- 🎓 B.Tech Artificial Intelligence & Machine Learning
+- 🏫 Saveetha School of Engineering (SIMATS)
+- 📍 Chennai, India
+- 🇩🇪 Future Master's Aspirant at Technical University of Munich (TUM)
+- 💡 Passionate about AI, Cloud and Software Development
+- 🎯 Goal: Become an AI Engineer
 
 ---
+## 🛠 Tech Stack
 
-# 🌱 Currently Learning
+### Languages
 
-- Git & GitHub
-- HTML
-- CSS
-- JavaScript
-- React
-- Firebase
-- Machine Learning
-- Deep Learning
-- Cloud Computing
-- Data Structures & Algorithms
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Learning
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,firebase,mysql,vscode,tensorflow,pytorch,docker"/>
 
 ---
-
-# 💻 Programming Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Future Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,mysql,git,github,vscode,tensorflow,pytorch,docker"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🚧 RoadFix
-
-AI-powered road damage detection and reporting platform that enables users to report potholes using GPS, cloud computing, and intelligent analytics.
-
-### Tech Stack
-
-- React
-- TypeScript
-- Firebase
-- Firestore
-- Google Maps API
-- AI
-- Cloud Computing
-
----
-
-## 🏢 Hostel Management System
-
-A web-based hostel management system that simplifies room allocation, student management, attendance tracking, and administration.
-
-### Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- XAMPP
-
----
-
-## 🤖 Saketh AI Lab
-
-A personalized AI learning platform designed to help students learn Artificial Intelligence and Machine Learning through a structured **365-Day Learning Roadmap**, practical projects, and hands-on learning.
-
-### Tech Stack
-
-- React
-- HTML
-- CSS
-- JavaScript
-- Firebase
-- Python
-
----
-
-# 🏆 Achievements
-
-🏅 Mini Hackathon Winner
-
-🎓 Master in Artificial Intelligence Certificate
-
-💼 Internship Completion Certificate
-
-📜 Multiple AI & Technology Course Certificates
-
----
-
-# 🎯 Career Goal
-
-Become an **AI Engineer** and develop intelligent systems that improve everyday life while contributing to world-class AI research and innovation.
-
----
-
-# 🌟 Dream Companies
-
-- Google
-- Microsoft
-- Amazon
-- OpenAI
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakethdoma61-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethdoma61-11&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sakethdoma61-11&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethdoma61-11&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakethdoma61-11&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=sakethdoma61-11&theme=tokyonight"/>
 </p>
 
+
+## 🚀 Featured Projects
+
+### 🚧 RoadFix Showcase 1
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 2
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 3
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 4
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 5
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 6
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 7
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 8
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 9
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 10
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 11
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 12
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 13
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 14
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 15
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 16
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 17
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 18
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 19
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 20
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 21
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 22
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 23
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 24
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 25
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 26
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 27
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 28
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 29
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 30
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 31
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 32
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 33
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 34
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 35
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 36
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 37
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🏢 Hostel Management System Showcase 38
+- **Description:** Hostel administration web application.
+- **Tech:** HTML • CSS • JS • PHP • MySQL
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🤖 Saketh AI Lab Showcase 39
+- **Description:** 365-day AI learning platform.
+- **Tech:** React • Firebase • Python
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+### 🚧 RoadFix Showcase 40
+- **Description:** AI-powered pothole detection and reporting platform.
+- **Tech:** React • TypeScript • Firebase • Google Maps
+- ⭐ Continuously improving this project.
+- 🔗 GitHub Repository: *Coming Soon*
+
+
+## 🗺 Career Roadmap
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+- 2026 - Started AI Journey
+- 2027 - Built AI Projects
+- 2028 - Internship & Certifications
+- 2029 - Graduate B.Tech
+- 2030 - Master's at TUM Germany
+- Future - AI Engineer at Google / Microsoft / OpenAI
+
+
+
+## 🏆 Achievements
+
+- Mini Hackathon Winner
+- Master in AI Certificate
+- Internship Completion Certificate
+- Multiple Technical Course Certificates
+
 ---
 
-# 📈 Contribution Graph
+## 📫 Connect
+
+- 📧 sakethdoma61@gmail.com
+- 💼 https://www.linkedin.com/in/doma-saketh-464574380
+- 🐙 https://github.com/sakethdoma61-11
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakethdoma61-11&theme=tokyo-night"/>
-
+<img src="https://komarev.com/ghpvc/?username=sakethdoma61-11&style=for-the-badge"/>
 </p>
 
----
-
-# 🤝 Open To Collaborate
-
-- Artificial Intelligence
-- Machine Learning
-- Open Source
-- Research Projects
-- Web Development
-- Startup Ideas
-
----
-
-# 💡 Fun Fact
-
-> 🤖 I can spend hours experimenting with AI and learning new technologies.
-
----
-
-# 📫 Connect With Me
-
 <p align="center">
-
-<a href="mailto:sakethdoma61@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/doma-saketh-464574380">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sakethdoma61-11">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sakethdoma61-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ "Building AI solutions that make a difference."
-
-Thanks for visiting my GitHub profile! 🚀
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00C2FF&height=140&section=footer"/>
 </p>
