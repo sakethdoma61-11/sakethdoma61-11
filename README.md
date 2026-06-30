@@ -108,17 +108,17 @@ print(me.mission())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=domasaketh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=64FFDA&text_color=FFFFFF&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=domasaketh&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=00C2FF&currStreakLabel=64FFDA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakethdoma61-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=64FFDA&text_color=FFFFFF&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakethdoma61-11&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=00C2FF&currStreakLabel=64FFDA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domasaketh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" width="40%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=domasaketh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=7F5AF0&point=64FFDA" width="56%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethdoma61-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" width="40%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakethdoma61-11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=7F5AF0&point=64FFDA" width="56%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=domasaketh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sakethdoma61-11&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
@@ -131,14 +131,14 @@ print(me.mission())
 <td width="33%" valign="top">
 
 ### 🛣️ RoadFix
-**AI-powered pothole reporting platform**
+**AI-powered pothole detection platform**
 
 Crowdsources road-damage reports, geolocates them via Maps API, and uses AI to verify and prioritize repairs for city infrastructure teams.
 
 `React` `TypeScript` `Firebase` `Firestore` `Google Maps API` `Cloud` `AI`
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/domasaketh)
-[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/domasaketh)
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/sakethdoma61-11)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/sakethdoma61-11)
 
 </td>
 <td width="33%" valign="top">
@@ -150,8 +150,8 @@ Digitizes room allocation, fee tracking, and complaint resolution for college ho
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/domasaketh)
-[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/domasaketh)
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/sakethdoma61-11)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/sakethdoma61-11)
 
 </td>
 <td width="33%" valign="top">
@@ -163,8 +163,8 @@ A self-built daily-practice system tracking a full year of hands-on AI experimen
 
 `React` `Firebase` `Python`
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/domasaketh)
-[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/domasaketh)
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/sakethdoma61-11)
+[![Demo](https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://github.com/sakethdoma61-11)
 
 </td>
 </tr>
@@ -238,14 +238,13 @@ graph TD
 
 <div align="center">
 
-<a href="https://github.com/domasaketh"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA"/></a>
-<a href="https://linkedin.com/in/domasaketh"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C2FF"/></a>
-<a href="mailto:domasaketh@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7F5AF0"/></a>
-<a href="https://twitter.com/domasaketh"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>
+<a href="https://github.com/sakethdoma61-11"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA"/></a>
+<a href="https://linkedin.com/in/sakethdoma61-11"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C2FF"/></a>
+<a href="mailto:sakethdoma61-11@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7F5AF0"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=domasaketh&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sakethdoma61-11&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
 
 </div>
 
