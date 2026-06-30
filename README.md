@@ -25,38 +25,48 @@ Building intelligent software using Artificial Intelligence, Machine Learning, C
 </div>
 
 ---
-# 🙋 About Me
+## 🙋 About Me
 
-```python
-class DomaSaketh:
+<table>
+<tr>
+<td width="60%">
 
-    def __init__(self):
+### 👨‍💻 Doma Saketh
 
-        self.role = "AI & Machine Learning Engineer"
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
+🏫 **Saveetha School of Engineering (SIMATS)**  
+📍 **Chennai, India**
 
-        self.location = "Chennai, India"
+I'm passionate about building intelligent software that solves real-world problems. My interests include Artificial Intelligence, Machine Learning, Cloud Computing, Full Stack Development, and creating impactful applications.
 
-        self.education = "B.Tech AI & ML"
+🚀 Currently working on:
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full Stack Web Applications
+- ☁️ Cloud Computing
+- 📱 Modern Software Solutions
 
-        self.college = "SIMATS"
+</td>
 
-        self.languages = ["Python","Java","C"]
+<td width="40%" align="center">
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Cloud Computing",
-            "Web Development"
-        ]
+### ⚡ Quick Facts
 
-    def mission(self):
+🧠 AI Enthusiast
 
-        return "Build intelligent software that solves real-world problems."
-```
+💻 Full Stack Learner
 
----
+🚀 Open Source Learner
 
+📚 Continuous Learner
+
+🏆 Hackathon Participant
+
+🌱 Building Projects Daily
+
+</td>
+
+</tr>
+</table>
 ### 🚀 Quick Facts
 
 - 🎓 B.Tech Artificial Intelligence & Machine Learning
