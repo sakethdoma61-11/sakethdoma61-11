@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;B.Tech+AI+%26+ML+%40+SIMATS;Aspiring+Researcher+%40+TU+Munich;Python+%7C+ML+%7C+Deep+Learning+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;B.Tech+AI+%26+ML+%40+SIMATS;Aspiring+Researcher+%40+TU+Munich;Python+%7C+ML+%7C+Deep+Learning+%7C+Cloud" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -109,7 +109,7 @@ print(me.mission())
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sakethdoma61-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=64FFDA&text_color=FFFFFF&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakethdoma61-11&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=00C2FF&currStreakLabel=64FFDA" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=sakethdoma61-11&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=00C2FF&currStreakLabel=64FFDA" width="48%"/>
 
 <br/>
 
